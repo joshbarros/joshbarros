@@ -29,7 +29,6 @@
 [<img align="left" title="NodeJS" alt="NodeJS" width="36px" src="https://firebasestorage.googleapis.com/v0/b/storage-ca28e.appspot.com/o/nodejs.png?alt=media&token=a9ff7ccb-aa10-4507-aeb5-6ad2bcf35c91" />][linkedin]
 [<img align="left" title="Laravel" alt="Laravel" width="36px" src="https://firebasestorage.googleapis.com/v0/b/storage-ca28e.appspot.com/o/laravel.png?alt=media&token=bfc1fdc8-a0f5-4034-af4d-b69eca5b83ef" />][linkedin]
 [<img align="left" title="GraphQL" alt="GraphQL" width="36px" src="https://firebasestorage.googleapis.com/v0/b/storage-ca28e.appspot.com/o/graphql.png?alt=media&token=360171c7-a2f7-4ce3-a704-afd4a9fd47b2" />][linkedin]
-[<img align="left" title="PostgreSQL" alt="PostgreSQL" width="36px" src="https://firebasestorage.googleapis.com/v0/b/storage-ca28e.appspot.com/o/pgsql.png?alt=media&token=a1c0b269-056a-4eeb-b93a-c9a816444dd3" />][linkedin]
 [<img align="left" title="Firebase" alt="Firebase" width="36px" src="https://firebasestorage.googleapis.com/v0/b/storage-ca28e.appspot.com/o/firebase.png?alt=media&token=4ce57863-af79-452a-a653-dad7024e5eee" />][linkedin]
 [<img align="left" title="Figma" alt="Figma" width="36px" src="https://firebasestorage.googleapis.com/v0/b/storage-ca28e.appspot.com/o/figma.png?alt=media&token=79a48699-8888-4762-869c-fb0206c770e4" />][linkedin]
 [<img align="left" title="WordPress" alt="WordPress" width="36px" src="https://firebasestorage.googleapis.com/v0/b/storage-ca28e.appspot.com/o/wordpress.png?alt=media&token=9c4a4f17-8107-4709-b3bf-3ad6d4e711c2" />][linkedin]
