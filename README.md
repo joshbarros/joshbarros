@@ -28,6 +28,7 @@
 [<img align="left" title="Nuxt" alt="Nuxt" width="48px" height="48px" src="https://firebasestorage.googleapis.com/v0/b/storage-ca28e.appspot.com/o/nuxt-icon.png?alt=media&token=7bbda091-2821-46cf-acaa-8c8f54264a78" />][linkedin]
 [<img align="left" title="NodeJS" alt="NodeJS" width="48px" height="48px" src="https://firebasestorage.googleapis.com/v0/b/storage-ca28e.appspot.com/o/nodejs.png?alt=media&token=a9ff7ccb-aa10-4507-aeb5-6ad2bcf35c91" />][linkedin]
 [<img align="left" title="Laravel" alt="Laravel" width="48px" height="48px" src="https://firebasestorage.googleapis.com/v0/b/storage-ca28e.appspot.com/o/laravel.png?alt=media&token=bfc1fdc8-a0f5-4034-af4d-b69eca5b83ef" />][linkedin]
+<br />
 [<img align="left" title="GraphQL" alt="GraphQL" width="48px" height="48px" src="https://firebasestorage.googleapis.com/v0/b/storage-ca28e.appspot.com/o/graphql.png?alt=media&token=360171c7-a2f7-4ce3-a704-afd4a9fd47b2" />][linkedin]
 [<img align="left" title="Firebase" alt="Firebase" width="48px" height="48px" src="https://firebasestorage.googleapis.com/v0/b/storage-ca28e.appspot.com/o/firebase.png?alt=media&token=4ce57863-af79-452a-a653-dad7024e5eee" />][linkedin]
 [<img align="left" title="Figma" alt="Figma" width="48px" height="48px" src="https://firebasestorage.googleapis.com/v0/b/storage-ca28e.appspot.com/o/figma.png?alt=media&token=79a48699-8888-4762-869c-fb0206c770e4" />][linkedin]
