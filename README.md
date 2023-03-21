@@ -7,9 +7,13 @@ I'm a full-stack web and mobile developer with extensive experience in creating 
 Here are some of the technologies I'm proficient in:
 
 Languages: PHP, JavaScript, Java.
+
 Web development: HTML, CSS, React, NextJS, Node.js, NestJS.
+
 Mobile development: React Native, Android.
+
 Databases: MySQL, PostgreSQL, MongoDB.
+
 
 🎮 Hobbies 🎮
 
