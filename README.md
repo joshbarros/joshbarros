@@ -18,8 +18,12 @@ I find that the immersive worlds and intriguing storylines are a great way to un
 If you'd like to collaborate on a project or just want to chat about tech or RPG games, feel free to reach out to me through any of the following channels:
 
 Email: goldenglowitsolutions@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/josuebarrosspringdeveloper
+
 Discord: Josue Barros#6846
+
 WhatsApp: +5521920201550
+
 
 Looking forward to hearing from you!
