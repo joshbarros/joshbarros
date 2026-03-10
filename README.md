@@ -2,7 +2,7 @@
 
 # Josué André da Silva Barros (Josh Barros)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1200&color=E6E6E6&background=0D1117&center=true&vCenter=true&width=900&lines=Builder+%2F+Senior+Software+Engineer;Performance+%7C+Data+Platforms+%7C+Event-driven+Systems;Azure+%7C+GCP+%7C+Kubernetes+%7C+Terraform)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1200&color=E6E6E6&center=true&vCenter=true&width=900&lines=Builder+%2F+Senior+Software+Engineer;Performance+%7C+Data+Platforms+%7C+Event-driven+Systems;Azure+%7C+GCP+%7C+Kubernetes+%7C+Terraform)
 
 ![Builder](https://img.shields.io/badge/Builder-ship%20fast-0D1117?style=for-the-badge&labelColor=0D1117&color=161B22)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Senior%2FStaff-0D1117?style=for-the-badge&labelColor=0D1117&color=2EA043)
