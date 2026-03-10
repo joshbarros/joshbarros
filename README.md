@@ -1,101 +1,59 @@
-# Josué André da Silva Barros 👨‍🚀
-## Senior Software Engineer
+# Josué André da Silva Barros (Josh Barros)
+**Builder / Senior Software Engineer** — Performance • Data Platforms • Event-driven Systems • Cloud (Azure + GCP)
 
-> Transforming technology into freedom. Building digital products that sell while you sleep 🌙✨
+I build **fast web experiences**, **data pipelines**, and **event-driven backends** that scale in production—focused on **Core Web Vitals, reliability, and cost**.
 
----
-
-### 🚀 About Me
-
-I'm a digital strategist with the soul of a software engineer. From a fullstack freelancer in RJ to an international consultant on high-impact projects in the US and Europe, I've built scalable systems, robust data pipelines, and user experiences that truly convert.
-
-Today, my focus is on transforming my technical background into automated and scalable digital products, combining **automation, data, and storytelling**. The goal is clear: freedom, scale, and global impact 🌍.
+**Keywords:** React • Next.js • TypeScript • Java/Spring • Golang • Python/FastAPI • Redis • Kafka • Databricks/PySpark • Azure (ADF, ADLS, AKS) • GCP (Cloud Run, Pub/Sub, BigQuery) • Terraform • Kubernetes • Observability (OpenTelemetry, Prometheus, Grafana)
 
 ---
 
-### 🏆 Real Results
-
-- 🔁 **Reduced infrastructure costs by 30%** with optimized data pipelines in Azure.
-- ⚡ **Improved API performance by up to 60%** with smart caching (Redis).
-- 📈 **Increased engagement on platforms by 25%** with high-performance front-end using NextJS/TypeScript.
-- 💸 **Deployed applications with 99.99% uptime** in critical banking environments (Bradesco).
-- 🔐 **Zero security incidents** in mission-critical applications.
-
----
-### 💼 International Experiences
-
-#### 🧠 **Data Engineer | TRIAD Integration (2024 - 2025)**
-- Azure Data Factory + Databricks + FastAPI.
-- Deployment in AKS with Terraform and Azure DevOps.
-- Impact: reduced costs and increased data availability for CCR.
-
-#### 🌐 **Software Engineer | Xogito Group, NYC (2023 - 2024)**
-- Refactoring legacy systems, improving unit tests and stability of a workforce management platform.
-
-#### 🏙️ **Software Engineer | Alpha Technologies USA (2022 - 2024)**
-- Real estate platforms, e-commerce and interactive dashboards.
-- Modern tech stack: NextJS, Redux, NodeJS, Redis.
-
-#### 💼 **Software Engineer | InAllMedia / Indeed (2022)**
-- Microservices with Spring, GraphQL, Redis, gRPC and PostgreSQL.
-
-#### 🏦 **Software Engineer | NTTData / Bradesco (2022)**
-- Development of banking systems with a focus on security, performance and usability.
+## What I ship
+- **Performance engineering** (React/Next.js): Core Web Vitals, LCP/CLS/FID, render & bundle optimization
+- **Data engineering** (Azure): ADF + ADLS Gen2 + Databricks/PySpark pipelines
+- **Event-driven systems**: Kafka / RabbitMQ / Pub/Sub, idempotency, retries, durability
+- **Cloud + platform**: AKS/GKE, Terraform IaC, CI/CD, secure secret management
+- **Observability by default**: OpenTelemetry, Prometheus, Grafana, Loki, Jaeger, Sentry
 
 ---
 
-### 🔧 Combat Stack
-
-**Languages ​​& Frameworks**
-`Java`, `Spring`, `TypeScript`, `React`, `Next.js`, `Python`, `NodeJS`, `Golang`, `FastAPI`, `React Native`
-
-**Data & Cloud**
-`Databricks`, `PySpark`, `MongoDB`, `PostgreSQL`, `Redis`, `Azure`, `Google Cloud`, `Docker`, `Kubernetes`
-
-**DevOps & Infra**
-`Terraform`, `NGINX`, `CI/CD`, `AKS`, `Azure DevOps`
-
-**APIs & Integrations**
-`RESTful`, `GraphQL`, `gRPC`, `JWT`, `OAuth`, `Webhooks`
+## Proof (high-signal outcomes)
+- **65% homepage render-time reduction** on Sephora e-commerce (React performance + Core Web Vitals)
+- Built **Promotion Activation System** powering personalized offers across web/mobile for peak campaigns
+- **30%+ cost reduction** on Azure data workloads (Databricks/ADF + FastAPI service + IaC)
+- **40% MTTR reduction** through dashboards/alerting (Prometheus + Grafana)
+- **Up to 60% API latency reduction** using caching + performance tuning (Redis)
+- **99.99% uptime** experience in banking/regulated environments; **zero security incidents** reported
 
 ---
 
-### 🌟 Soft Skills That Sell
-
-- Strategic thinking & digital product vision.
-- Dev mentoring (technical leader for 1.5 years).
-- Sharp communication in multicultural squads (LATAM, NA, EMEA, APAC).
-- Creativity with a conversion bias.
-
----
-
-### 📚 Education & Certifications
-
-- **Self-taught Software Engineer** since 2018
-- **AZ-900 Certified (Microsoft Azure Fundamentals)**
+## Work (recent)
+**Stateside Agency (Sephora)** — Software Engineer (Contract) • Los Angeles / Remote • 07/2025–11/2025  
+**TRIAD Integration (CCR)** — Data Engineer (Contract) • São Paulo / Remote • 11/2024–03/2025  
+**Keyrus (SulAmérica)** — Software Engineer (Contract) • 05/2024–11/2024  
+**Xogito Group (NYC)** — Software Engineer (Contract) • 10/2023–05/2024
 
 ---
 
-### 🌎 Languages
-
-- 🇧🇷 Portuguese: Native
-- 🇬🇧 English: Advanced (C2)
-- 🇪🇸 Spanish: Basic
-
----
-
-### 🧩 Side Projects and Products
-
-- Analytical dashboards focused on BI and e-commerce.
-- APIs for marketplaces, institutions and educational platforms.
-- Hybrid mobile apps for MVP validation.
-
----
-### 📬 Let's Connect?
-
-- 🌐 Website: [goldenglowitsolutions.com](https://goldenglowitsolutions.com/)
-- 💼 LinkedIn: [linkedin.com/in/joshbarros](https://linkedin.com/in/joshbarros)
+## Stack (for humans + SEO)
+**Frontend:** React, Next.js, Angular, TypeScript, Redux  
+**Backend:** Java, Spring Boot, Golang, Node.js, Python, FastAPI • REST, GraphQL, gRPC  
+**Data:** Databricks, PySpark, Airflow • PostgreSQL, MySQL, MongoDB, Redis  
+**Cloud:** Azure (ADF, Databricks, ADLS Gen2, Functions, App Service, AKS) • GCP (Cloud Run, Functions, Pub/Sub, BigQuery)  
+**DevOps:** Terraform, Docker, Kubernetes, GitHub Actions, Jenkins, NGINX, Traefik, CI/CD  
+**Observability:** OpenTelemetry, Prometheus, Grafana, Loki, Jaeger, Sentry
 
 ---
 
-> “Code is power. But real power is turning code into product, and product into freedom.” – Myself 😎
+## Leadership & collaboration
+- 1.5 years mentoring Mid/Junior devs
+- Worked with multicultural teams across **LATAM / NA / EMEA / APAC**
+
+---
+
+## Connect
+- Website: https://josuebarros.com  
+- Company: https://goldenglowitsolutions.com  
+- LinkedIn: https://linkedin.com/in/joshbarros  
+- Email: goldenglowitsolutions@gmail.com  
+
+**Open to:** Senior/Staff SWE • Performance • Data Platform • Backend • Cloud (Azure/GCP) • Consulting
