@@ -6,7 +6,7 @@
 
 ![Builder](https://img.shields.io/badge/Builder-ship%20fast-0D1117?style=for-the-badge&labelColor=0D1117&color=161B22)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Senior%2FStaff-0D1117?style=for-the-badge&labelColor=0D1117&color=2EA043)
-![Core Web Vitals](https://img.shields.io/badge/Core%20Web%20Vitals-LCP%20%7C%20CLS%20%7C%20FID-0D1117?style=for-the-badge&labelColor=0D1117&color=58A6FF)
+![Core Web Vitals](https://img.shields.io/badge/Core%20Web%20Vitals-LCP%20%7C%20INP%20%7C%20CLS-0D1117?style=for-the-badge&labelColor=0D1117&color=58A6FF)
 
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -28,7 +28,7 @@ I build **fast web experiences**, **data pipelines**, and **event-driven backend
 ---
 
 ## What I ship
-- **Performance engineering** (React/Next.js): Core Web Vitals, LCP/CLS/FID, render & bundle optimization
+- **Performance engineering** (React/Next.js): Core Web Vitals, LCP/INP/CLS, render & bundle optimization
 - **Data engineering** (Azure): ADF + ADLS Gen2 + Databricks/PySpark pipelines
 - **Event-driven systems**: Kafka / RabbitMQ / Pub/Sub, idempotency, retries, durability
 - **Cloud + platform**: AKS/GKE, Terraform IaC, CI/CD, secure secret management
@@ -47,6 +47,8 @@ I build **fast web experiences**, **data pipelines**, and **event-driven backend
 ---
 
 ## Work (recent)
+*Contract specialist — brought in for high-impact, fixed-scope delivery engagements across retail, fintech & data platforms.*
+
 **Stateside Agency (Sephora)** — Software Engineer (Contract) • Los Angeles / Remote • 07/2025–11/2025  
 **TRIAD Integration (CCR)** — Data Engineer (Contract) • São Paulo / Remote • 11/2024–03/2025  
 **Keyrus (SulAmérica)** — Software Engineer (Contract) • 05/2024–11/2024  
