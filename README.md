@@ -1,88 +1,66 @@
 <div align="center">
 
-# Josué André da Silva Barros (Josh Barros)
+# Josué Barros
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1200&color=E6E6E6&center=true&vCenter=true&width=900&lines=Self-Taught+Senior+Software+Engineer+%7C+7%2B+years;Performance+%7C+Data+Platforms+%7C+Event-driven+Systems;Azure+%7C+AWS+%7C+GCP+%7C+Kubernetes+%7C+Terraform)
+**Senior Software Engineer · Full-stack, Data & AI**<br>
+I run AI agents like an engineering team — and ship enterprise-grade software with them.
 
-![Builder](https://img.shields.io/badge/Builder-ship%20fast-0D1117?style=for-the-badge&labelColor=0D1117&color=161B22)
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Senior%2FStaff-0D1117?style=for-the-badge&labelColor=0D1117&color=2EA043)
-![Core Web Vitals](https://img.shields.io/badge/Core%20Web%20Vitals-LCP%20%7C%20INP%20%7C%20CLS-0D1117?style=for-the-badge&labelColor=0D1117&color=58A6FF)
-
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![GCP](https://img.shields.io/badge/GCP-0D1117?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
-![Terraform](https://img.shields.io/badge/Terraform-0D1117?style=for-the-badge&logo=terraform&logoColor=844FBA)
-
-![Tech](https://skillicons.dev/icons?i=react,nextjs,ts,java,spring,go,python,redis,kafka,docker,kubernetes,terraform,azure,aws,gcp&theme=dark)
+[![Website](https://img.shields.io/badge/josuebarros.com-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://josuebarros.com/about)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/joshbarros)
+[![Book an intro](https://img.shields.io/badge/Book%20an%20intro-0D1117?style=for-the-badge&logo=calendly&logoColor=006BFF)](https://calendly.com/goldenglowitsolutions/1-1-with-josue-barros)
+[![YouTube](https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://youtube.com/@theitguyreturns)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:goldenglowitsolutions@gmail.com)
 
 </div>
 
-**Self-Taught Senior Software Engineer • 7+ years** — Performance • Data Platforms • Event-driven Systems • Cloud (Azure · AWS · GCP)
+8+ years building production systems for enterprise teams in the US and Latin America — e-commerce performance at Sephora, analytics platforms on Snowflake and Databricks, event-driven backends for insurance and banking. Today I deliver with an agent pipeline I built and control: a spec before any code, PM → Dev → QA agents, tests that gate every merge, and hard budgets on token spend.
 
-I build **fast web experiences**, **data pipelines**, and **event-driven backends** that scale in production—focused on **Core Web Vitals, reliability, and cost**.
+## Highlights
 
-**Keywords:** React • Next.js • TypeScript • Java/Spring • Golang • Python/FastAPI • Redis • Kafka • Databricks/PySpark • Power BI Embedded • Snowflake • Azure (ADF, ADLS, AKS) • AWS • GCP (Cloud Run, Pub/Sub, BigQuery) • Terraform • Kubernetes • DDD/Microservices • Observability (OpenTelemetry, Prometheus, Grafana)
+- **65% faster homepage render** on a global e-commerce platform serving millions of users
+- **15s → 2s** dashboard load on an enterprise analytics platform (Redis caching + Snowflake view fixes)
+- **−30% infrastructure cost** moving a data platform to Terraform + Azure DevOps
+- **−40% mean time to recovery** on high-volume insurance systems (Prometheus + Grafana)
+- **99.99% uptime** on banking applications in a regulated environment
 
----
+## Building now
 
-## What I ship
-- **Performance engineering** (React/Next.js): Core Web Vitals, LCP/INP/CLS, render & bundle optimization
-- **Data engineering** (Azure): ADF + ADLS Gen2 + Databricks/PySpark + Snowflake pipelines
-- **Embedded analytics / BI**: secure multi-tenant Power BI Embedded in Angular, dataset config & report delivery
-- **Event-driven systems**: Kafka / RabbitMQ / Pub/Sub, idempotency, retries, durability
-- **Cloud + platform**: AKS/GKE, Terraform IaC, CI/CD, secure secret management
-- **Observability by default**: OpenTelemetry, Prometheus, Grafana, Loki, Jaeger, Sentry
+- **[production-rag](https://github.com/joshbarros/production-rag)** · Citation-grounded document QA that refuses to answer when it can't cite a real passage. Golden-question evals, MCP endpoint, per-query and daily budget ledger. FastAPI + Next.js.
+- **[appsec-incident-lab](https://github.com/joshbarros/appsec-incident-lab)** · Production-style AppSec incident-response lab: Go ingestion with idempotency and circuit breakers, Python enrichment workers with retry/DLQ, real-time dashboard, full observability.
+- **[open-game-forge](https://github.com/joshbarros/open-game-forge)** · Reproducible pipeline that turns game-asset briefs into concept art, animations and spritesheets on your own ComfyUI + RunPod GPUs — validated before paid execution, resumable, hashed.
+- **[dotnet-ecommerce-app](https://github.com/joshbarros/dotnet-ecommerce-app)** · Full e-commerce app: ASP.NET Core 10 API + PostgreSQL, Angular 21 frontend, Nx monorepo.
+- **[yt-series-terraform-azure](https://github.com/joshbarros/yt-series-terraform-azure)** · Companion repo for my *Azure for SaaS Developers* YouTube series — 12 episodes from zero IaC to multi-region production.
 
----
+## Writing
 
-## Proof (high-signal outcomes)
-- **65% homepage render-time reduction** on Sephora e-commerce (React performance + Core Web Vitals)
-- Shipped **secure multi-tenant Power BI Embedded** analytics in Angular for enterprise reporting (ComPsych)
-- Built **Promotion Activation System** powering personalized offers across web/mobile for peak campaigns
-- **30%+ cost reduction** on Azure data workloads (Databricks/ADF + FastAPI service + IaC)
-- **40% MTTR reduction** through dashboards/alerting (Prometheus + Grafana)
-- **Up to 60% API latency reduction** using caching + performance tuning (Redis)
-- **99.99% uptime** in banking/regulated environments (Bradesco); **zero security incidents** reported
+- [GitHub Spec Kit: why you should stop vibe coding and start specifying](https://josuebarros.com/blog/github-spec-kit-stop-vibe-coding)
+- [The BMAD Method: give your AI a team, not one developer](https://josuebarros.com/blog/bmad-method-ai-agents-that-follow-process)
+- [7 Terraform mistakes even senior engineers make](https://josuebarros.com/blog/terraform-mistakes-senior-engineers-make)
 
----
+[All posts →](https://josuebarros.com)
 
-## Work (recent)
-*Contract specialist — brought in for high-impact, fixed-scope delivery engagements across retail, fintech, banking & data platforms.*
+## Companies I've built for
 
-**Factored (ComPsych)** — Software Engineer (Contract) • Mountain View, CA / Remote • 07/2025–02/2026  
-**Stateside Agency (Sephora)** — Software Engineer (Contract) • Los Angeles / Remote • 07/2025–11/2025  
-**TRIAD Integration (CCR)** — Data Engineer (Contract) • São Paulo / Remote • 11/2024–03/2025  
-**Keyrus (SulAmérica)** — Software Engineer (Contract) • 05/2024–11/2024  
-**Xogito Group (NYC)** — Software Engineer (Contract) • 10/2023–05/2024  
+| Company | Years | Focus |
+|---|---|---|
+| ExxonMobil | 2026 – present | Full-stack analytics · React, FastAPI, Snowflake, Redis |
+| ComPsych (via Factored) | 2025 – 2026 | Embedded analytics · Java, Spring Boot, Angular, Power BI, Azure |
+| Sephora (via Stateside) | 2025 | Web performance · React, Core Web Vitals |
+| CCR (via Triad Integration) | 2024 – 2025 | Data engineering · Azure Databricks, Data Factory, AKS, Terraform |
+| SulAmérica (via Keyrus) | 2024 | Event-driven backends · Java, Go, Kafka, GKE |
+| Xogito Group | 2023 – 2024 | Backend · Java, Spring, PostgreSQL |
+| Alpha Technologies | 2022 – 2024 | Full-stack · React, Next.js, Node.js |
+| Indeed (via InAllMedia) | 2022 | Backend · Java, GraphQL, gRPC, Redis |
+| Bradesco (via NTT Data) | 2022 | Banking · Java, Spring, Oracle |
 
-*Earlier:* NTTData (**Bradesco** — banking) • Alpha Technologies • InAllMedia (**Indeed**)
+## Stack
 
----
+**AI:** AI agents, MCP, RAG, LangGraph, Claude, OpenAI, vector databases<br>
+**Data:** Snowflake, Databricks, PySpark, Power BI, Microsoft Fabric, Airflow<br>
+**Backend:** Python, FastAPI, Java, Kotlin, Spring Boot, C#, .NET, Go, Node.js, Kafka, Redis<br>
+**Frontend:** React, TypeScript, Next.js, Angular, React Native<br>
+**Cloud:** Azure, AWS, GCP, Kubernetes, Terraform, CI/CD, OpenTelemetry
 
-## Stack (for humans + SEO)
-**Frontend:** React, Next.js, Angular, TypeScript, Redux • React Native, Expo (mobile)  
-**Backend:** Java, Spring Boot, Golang, Node.js, Python, FastAPI • REST, GraphQL, gRPC • DDD, Microservices  
-**Data & BI:** Databricks, PySpark, Airflow, Snowflake, Microsoft Fabric • Power BI / Power BI Embedded • PostgreSQL, MySQL, MongoDB, DynamoDB, Redis  
-**Cloud:** Azure (ADF, Databricks, ADLS Gen2, Functions, App Service, AKS) • AWS • GCP (Cloud Run, Functions, Pub/Sub, BigQuery)  
-**DevOps:** Terraform, Ansible, Docker, Kubernetes, ArgoCD, GitHub Actions, GitLab CI, Jenkins, NGINX, Traefik, CI/CD  
-**Observability:** OpenTelemetry, Prometheus, Grafana, Loki, Jaeger, Sentry
+## Hiring me
 
----
-
-## Leadership & collaboration
-- 1.5 years mentoring Mid/Junior devs
-- Worked with multicultural teams across **LATAM / NA / EMEA / APAC**
-
----
-
-## Connect
-- Website: https://josuebarros.com  
-- Company: https://goldenglowitsolutions.com  
-- LinkedIn: https://linkedin.com/in/joshbarros  
-- Email: goldenglowitsolutions@gmail.com  
-
-**Open to:** Senior/Staff SWE • Performance • Data Platform • Backend • Cloud (Azure/AWS/GCP) • Consulting
+Open to senior full-time roles — full-stack, data platform or AI engineering, remote. The fastest path: [book a 30-minute intro](https://calendly.com/goldenglowitsolutions/1-1-with-josue-barros), and I'll send my full resume beforehand.
