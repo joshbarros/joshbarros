@@ -1,66 +1,49 @@
-<div align="center">
-
 # Josué Barros
 
-**Senior Software Engineer · Full-stack, Data & AI**<br>
-I run AI agents like an engineering team — and ship enterprise-grade software with them.
+## Backend and integration engineering for existing software products
 
-[![Website](https://img.shields.io/badge/josuebarros.com-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://josuebarros.com/about)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/joshbarros)
-[![Book an intro](https://img.shields.io/badge/Book%20an%20intro-0D1117?style=for-the-badge&logo=calendly&logoColor=006BFF)](https://calendly.com/goldenglowitsolutions/1-1-with-josue-barros)
-[![YouTube](https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://youtube.com/@theitguyreturns)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:goldenglowitsolutions@gmail.com)
+I implement backend features, connect APIs and improve reliability. Work directly with me through a written scope, your issue tracker and reviewed pull requests.
 
-</div>
+**[Discuss an engineering task →](https://josuebarros.com/services#project-brief)** · [Experience](https://josuebarros.com/about) · [LinkedIn](https://linkedin.com/in/joshbarros) · [Email](mailto:hello@josuebarros.com)
 
-8+ years building production systems for enterprise teams in the US and Latin America — e-commerce performance at Sephora, analytics platforms on Snowflake and Databricks, event-driven backends for insurance and banking. Today I deliver with an agent pipeline I built and control: a spec before any code, PM → Dev → QA agents, tests that gate every merge, and hard budgets on token spend.
+## Start with the engineering evidence
 
-## Highlights
+These are public reference projects, not client case studies. They show implementation choices and tests you can inspect. They are not claims of production deployments, customer results or guaranteed reliability.
 
-- **65% faster homepage render** on a global e-commerce platform serving millions of users
-- **15s → 2s** dashboard load on an enterprise analytics platform (Redis caching + Snowflake view fixes)
-- **−30% infrastructure cost** moving a data platform to Terraform + Azure DevOps
-- **−40% mean time to recovery** on high-volume insurance systems (Prometheus + Grafana)
-- **99.99% uptime** on banking applications in a regulated environment
+### Reliable workflows and inventory — .NET / PostgreSQL / messaging
 
-## Building now
+**[dotnet-warehouse](https://github.com/joshbarros/dotnet-warehouse)** demonstrates order processing with transaction boundaries, an outbox/inbox, retries and compensating actions.
 
-- **[production-rag](https://github.com/joshbarros/production-rag)** · Citation-grounded document QA that refuses to answer when it can't cite a real passage. Golden-question evals, MCP endpoint, per-query and daily budget ledger. FastAPI + Next.js.
-- **[appsec-incident-lab](https://github.com/joshbarros/appsec-incident-lab)** · Production-style AppSec incident-response lab: Go ingestion with idempotency and circuit breakers, Python enrichment workers with retry/DLQ, real-time dashboard, full observability.
-- **[open-game-forge](https://github.com/joshbarros/open-game-forge)** · Reproducible pipeline that turns game-asset briefs into concept art, animations and spritesheets on your own ComfyUI + RunPod GPUs — validated before paid execution, resumable, hashed.
-- **[dotnet-ecommerce-app](https://github.com/joshbarros/dotnet-ecommerce-app)** · Full e-commerce app: ASP.NET Core 10 API + PostgreSQL, Angular 21 frontend, Nx monorepo.
-- **[yt-series-terraform-azure](https://github.com/joshbarros/yt-series-terraform-azure)** · Companion repo for my *Azure for SaaS Developers* YouTube series — 12 episodes from zero IaC to multi-region production.
+- **Buyer concern:** two orders compete for the last unit, or a message arrives twice.
+- **Inspect:** [concurrency and duplicate-delivery tests](https://github.com/joshbarros/dotnet-warehouse/blob/main/tests/Warehouse.IntegrationTests/InventoryConcurrencyTests.cs), [outbox relay](https://github.com/joshbarros/dotnet-warehouse/blob/main/libs/shared/Messaging/OutboxRelay.cs), and [architecture and local demo](https://github.com/joshbarros/dotnet-warehouse#readme).
+- **Verification:** [CI runs](https://github.com/joshbarros/dotnet-warehouse/actions/workflows/ci.yml), including database integration and browser test jobs. Check the relevant run and commit for its current status.
 
-## Writing
+### Document AI with inspectable safeguards — Python / FastAPI
 
-- [GitHub Spec Kit: why you should stop vibe coding and start specifying](https://josuebarros.com/blog/github-spec-kit-stop-vibe-coding)
-- [The BMAD Method: give your AI a team, not one developer](https://josuebarros.com/blog/bmad-method-ai-agents-that-follow-process)
-- [7 Terraform mistakes even senior engineers make](https://josuebarros.com/blog/terraform-mistakes-senior-engineers-make)
+**[production-rag](https://github.com/joshbarros/production-rag)** explores document retrieval, citation validation, refusal behavior and usage budgets.
 
-[All posts →](https://josuebarros.com)
+- **Buyer concern:** an AI feature returns unsupported answers or consumes more budget than expected.
+- **Inspect:** [citation and refusal tests](https://github.com/joshbarros/production-rag/blob/main/packages/core/tests/test_grounding.py), [budget tests](https://github.com/joshbarros/production-rag/blob/main/packages/core/tests/test_phase6_budget.py), and [evaluation artifacts](https://github.com/joshbarros/production-rag/tree/main/packages/core/evals/results).
+- **Verification:** [CI runs](https://github.com/joshbarros/production-rag/actions/workflows/ci.yml) and reproducible evaluation commands. Citation checks reduce a class of failures; they do not guarantee that every answer is correct.
 
-## Companies I've built for
+## How we work together
 
-| Company | Years | Focus |
-|---|---|---|
-| ExxonMobil | 2026 – present | Full-stack analytics · React, FastAPI, Snowflake, Redis |
-| ComPsych (via Factored) | 2025 – 2026 | Embedded analytics · Java, Spring Boot, Angular, Power BI, Azure |
-| Sephora (via Stateside) | 2025 | Web performance · React, Core Web Vitals |
-| CCR (via Triad Integration) | 2024 – 2025 | Data engineering · Azure Databricks, Data Factory, AKS, Terraform |
-| SulAmérica (via Keyrus) | 2024 | Event-driven backends · Java, Go, Kafka, GKE |
-| Xogito Group | 2023 – 2024 | Backend · Java, Spring, PostgreSQL |
-| Alpha Technologies | 2022 – 2024 | Full-stack · React, Next.js, Node.js |
-| Indeed (via InAllMedia) | 2022 | Backend · Java, GraphQL, gRPC, Redis |
-| Bradesco (via NTT Data) | 2022 | Banking · Java, Spring, Oracle |
+1. **Send a short brief.** The task, expected behavior, current stack and deadline are enough to start. Please omit credentials and confidential customer data.
+2. **Agree on a paid implementation trial.** We define scope, acceptance criteria, price and timing in writing before work begins.
+3. **Review the work.** You receive code, tests and a written handover in your tools. Ongoing monthly engineering is available when the backlog and working relationship fit.
 
-## Stack
+No introductory sales call is required. Any useful technical meeting is arranged in advance. [See the current engagement terms and capacity →](https://josuebarros.com/services)
 
-**AI:** AI agents, MCP, RAG, LangGraph, Claude, OpenAI, vector databases<br>
-**Data:** Snowflake, Databricks, PySpark, Power BI, Microsoft Fabric, Airflow<br>
-**Backend:** Python, FastAPI, Java, Kotlin, Spring Boot, C#, .NET, Go, Node.js, Kafka, Redis<br>
-**Frontend:** React, TypeScript, Next.js, Angular, React Native<br>
-**Cloud:** Azure, AWS, GCP, Kubernetes, Terraform, CI/CD, OpenTelemetry
+## Engineering approach
 
-## Hiring me
+I use CLI tools and coding agents to accelerate implementation. I remain responsible for reviewing changes, testing behavior, explaining tradeoffs and handing over maintainable work. Tools are part of the process; the deliverable is working software you can inspect and own.
 
-Open to senior full-time roles — full-stack, data platform or AI engineering, remote. The fastest path: [book a 30-minute intro](https://calendly.com/goldenglowitsolutions/1-1-with-josue-barros), and I'll send my full resume beforehand.
+My background spans backend, data and full-stack engineering. [Career history and experience →](https://josuebarros.com/about)
+
+## Technical writing
+
+- [The N+1 query problem, measured](https://josuebarros.com/blog/n-plus-1-query-problem-measured)
+- [Terraform mistakes senior engineers make](https://josuebarros.com/blog/terraform-mistakes-senior-engineers-make)
+- [From vague instructions to specifications](https://josuebarros.com/blog/github-spec-kit-stop-vibe-coding)
+
+[More writing](https://josuebarros.com) · [YouTube](https://youtube.com/@theitguyreturns)
